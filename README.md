@@ -21,7 +21,7 @@ npm start
 
 # App Functionalities
 
-- A user  to create a deck which can hold an unlimited number of cards.
+- A user can create a deck which can hold an unlimited number of cards.
 - A user can add a card to a specific deck.
 - A user can remove a Deck.
 - The front of the card should display the question.
